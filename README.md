@@ -1,12 +1,11 @@
 # A-Virus
 This tool Creates malicious Virus This tool can be installed into your various systems.
 
-
 # Tested on
 #### >> [+] Termux !
 #### >> [+] Parrot !
 
-# Author
+### Author
 **AɴᴏɴʏᴍᴏᴜsDᴇʙᴜɢ**
 
 <p align="center">
@@ -26,7 +25,7 @@ With this Tool You Can Make a Malicious  Virus
 
 >cd A-Virus
 
->bash A-Virus.sh
+>bash A-Virus.bash
 
 # Credits
 #### [+] AnonymousX11-debug
